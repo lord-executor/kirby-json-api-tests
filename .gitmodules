@@ -1,3 +1,6 @@
 [submodule "web/kirby"]
 	path = web/kirby
 	url = https://github.com/getkirby/kirby
+[submodule "web/site/plugins/jsonapi"]
+	path = web/site/plugins/jsonapi
+	url = git@github.com:lord-executor/kirby-json-api.git

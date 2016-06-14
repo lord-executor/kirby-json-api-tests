@@ -1,0 +1,7 @@
+Title: Home
+
+----
+
+Text: This is a very, _very_ simple Kirby page that provides some content for testing the (link: https://github.com/lord-executor/kirby-json-api text: Kirby JSON API Plugin).
+
+All of the relevant test data is located under the "root" page.

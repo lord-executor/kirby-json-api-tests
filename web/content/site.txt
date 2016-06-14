@@ -1,0 +1,13 @@
+Title: Kirby JSON API Test Bench
+
+----
+
+Author: Lukas Angerer
+
+----
+
+Description: This is a test bench for the Kirby JSON API plugin (https://github.com/lord-executor/kirby-json-api)
+
+----
+
+Keywords: Kirby, JSON, API
