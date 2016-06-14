@@ -1,0 +1,3 @@
+[submodule "web/kirby"]
+	path = web/kirby
+	url = https://github.com/getkirby/kirby

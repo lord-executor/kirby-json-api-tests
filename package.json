@@ -1,0 +1,16 @@
+{
+  "name": "kirby-json-api-tests",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "0.0.7"
+  }
+}
