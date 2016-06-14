@@ -1,0 +1,13 @@
+Title: Child One
+
+----
+
+Text: This is the first child
+
+----
+
+Value: 42.1
+
+----
+
+NextNode: root
