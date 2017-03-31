@@ -92,6 +92,9 @@ module.exports = (segment) => {
 				expect(page.title).toBe('Child One');
 				expect(page.value).toBe('42.1');
 				expect(page.nextnode).toBe('root');
+				expect(page.structured instanceof Array).toBe(true);
+				expect(page.structured.length).toBe(3);
+				expect(page.structured[1].title).toBe('Sub-Item 2');
 
 				done();
 			});
